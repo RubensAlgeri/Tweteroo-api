@@ -1,0 +1,26 @@
+{
+  "name": "projeto11-tweteroo",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon back-end/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RubensAlgeri/projeto11-tweteroo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RubensAlgeri/projeto11-tweteroo/issues"
+  },
+  "homepage": "https://github.com/RubensAlgeri/projeto11-tweteroo#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
