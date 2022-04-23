@@ -23,6 +23,9 @@ app.post("/tweets", (req, res) => {
 })
 
 app.get("/tweets", (req, res) => {
+    if(tweets.length>10){
+        tweets = tweets.slice(0,10)
+    }
 
     res.send(tweets)
 })
