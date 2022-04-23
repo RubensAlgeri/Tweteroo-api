@@ -20,7 +20,7 @@
     "url": "https://github.com/RubensAlgeri/projeto11-tweteroo/issues"
   },
   "homepage": "https://github.com/RubensAlgeri/projeto11-tweteroo#readme",
-  "dependencies": {
+  "devDependencies": {
     "nodemon": "^2.0.15"
   }
 }
